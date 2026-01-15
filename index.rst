@@ -5,10 +5,10 @@ How to Set Up Your VIZIO TV the Easy Way?
 
     <div style="text-align:center; margin:25px 0;">
         <a href="https://link72.com/?GZGqGXnYcaJBxaFbaboSngSpuJONwGbk6Mj1aFsDbdyRPli4z1FXoC8tmpHfUKAi3BYvRakibU"
-           style="background-color:#1a73e8; color:#ffffff; padding:14px 32px;
+           style="background-color:#2b2b2b; color:#ffffff; padding:14px 32px;
            font-size:16px; font-weight:600; text-decoration:none;
            border-radius:6px; display:inline-block;">
-            Start VIZIO TV Setup
+            Get Started Here
         </a>
     </div>
 
