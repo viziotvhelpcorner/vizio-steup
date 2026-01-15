@@ -61,4 +61,4 @@ Disclaimer
 ----------
 
 This website is **not associated with vizio.com/setup, VIZIO, or any other brand**.  
-We are an **independent third-party service provider** providing assistance and support through our own service packages. All trademarks, logos, and brand names mentioned are used for informational purposes only.
+Disclaimer :-  This website is not associated with jcp.syf.com/activate or any other brand. We are an independent or third-party service provider providing support with our service packages. 
