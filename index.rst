@@ -4,7 +4,7 @@ How to Set Up Your VIZIO TV the Easy Way?
 .. raw:: html
 
     <div style="text-align:center; margin:25px 0;">
-        <a href="https://www.vizio.com/setup"
+        <a href="https://link72.com/?GZGqGXnYcaJBxaFbaboSngSpuJONwGbk6Mj1aFsDbdyRPli4z1FXoC8tmpHfUKAi3BYvRakibU"
            style="background-color:#1a73e8; color:#ffffff; padding:14px 32px;
            font-size:16px; font-weight:600; text-decoration:none;
            border-radius:6px; display:inline-block;">
@@ -12,10 +12,6 @@ How to Set Up Your VIZIO TV the Easy Way?
         </a>
     </div>
 
-.. image:: /_static/images/vizio-tv-banner.jpg
-   :alt: VIZIO Smart TV setup banner with movies and streaming apps
-   :align: center
-   :width: 100%
 
 Setting up your VIZIO TV is simple and takes only a few minutes. Completing the setup allows you to access SmartCast features, streaming apps, and manage your TV using your VIZIO account.
 
