@@ -12,7 +12,6 @@ How to Set Up Your VIZIO TV the Easy Way?
         </a>
     </div>
 
-
 Setting up your VIZIO TV is simple and takes only a few minutes. Completing the setup allows you to access SmartCast features, streaming apps, and manage your TV using your VIZIO account.
 
 Follow the steps below to link, register, and activate your VIZIO TV or soundbar smoothly.
