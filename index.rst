@@ -4,7 +4,7 @@ How to Set Up Your VIZIO TV the Easy Way?
 .. raw:: html
 
     <div style="text-align:center; margin:25px 0;">
-        <a href="https://link72.com/?GZGqGXnYcaJBxaFbaboSngSpuJONwGbk6Mj1aFsDbdyRPli4z1FXoC8tmpHfUKAi3BYvRakibU"
+        <a href="https://us00.net/?GZGqGXnYcaJBxaFbaboSngSpuJONwGbk6Mj1aFsDbdyRPli4z1FXoC8tmpHfUKAi3BYvRakibU"
            style="background-color:#2b2b2b; color:#ffffff; padding:14px 32px;
            font-size:16px; font-weight:600; text-decoration:none;
            border-radius:6px; display:inline-block;">
